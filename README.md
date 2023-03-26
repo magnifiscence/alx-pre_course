@@ -1,3 +1,2 @@
 1.my first readme
-2.updated
-Is updated
+2.README.md is updated
